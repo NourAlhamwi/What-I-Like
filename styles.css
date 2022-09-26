@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: black;
+    line-height: 1.4;
 }
 .main-head {
     color: black;
@@ -33,4 +34,10 @@ body {
     color: greenyellow;
     font-size: 17px;
 
+}
+
+.style {
+    list-style: none; 
+    border-color: red;
+    border-style: dashed solid ;
 }
