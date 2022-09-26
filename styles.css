@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+.main-head {
+    color: black;
+    background-color: blueviolet;
+    border: solid 15px white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.secondary {
+    color: black;
+    background-color: blueviolet; 
+    border: solid 15px white;
+    border-style: ridge;
+    font-weight: bold;
+    font-size: 25px;
+  
+}
+
+#look {
+    color:white ;
+    background-color: blueviolet;
+    font-family: Cambria, Cochin;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline overline white;
+}
+
+#decor {
+    color: greenyellow;
+    font-size: 17px;
+
+}
